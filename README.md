@@ -16,7 +16,7 @@ Tr
 - Her egzersiz için ayrıntılı açıklama ve görsel materyaller sunulmaktadır.
 - Kullanıcılar egzersizleri favorilere ekleyebilir veya kaldırabilir.
 - Basit ve kullanıcı dostu arayüz sayesinde uygulama kullanımı kolaydır.
-- 
+
 ## Screenshots
 <img src="https://github.com/EnesCeee/flutter_fitness_exercise_guide/assets/86595661/26042416-d215-4426-b8fc-6907e23cbc61" width="250" height="400">
 <img src="https://github.com/EnesCeee/flutter_fitness_exercise_guide/assets/86595661/7eb8202f-b766-4b31-9c86-28bc1455ef80" width="250" height="400">
